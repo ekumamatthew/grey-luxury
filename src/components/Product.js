@@ -121,4 +121,4 @@ const ProductWrapper = styled.div`
     color: var(--mainYellow);
     cusor: pointer;
 }
-`;
+`
