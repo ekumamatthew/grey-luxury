@@ -20,7 +20,7 @@ export default class Product extends Component {
                     
                         <Link to="/details">
                         
-                        <img src={img} alt ="product image" 
+                        <img src={img} alt ="product img" 
                      className="card-img-top" />
                         </Link>
                       
