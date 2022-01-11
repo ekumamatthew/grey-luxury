@@ -120,9 +120,6 @@ const ProductWrapper = styled.div`
 .cart-btn:hover{
     color: var(--mainYellow);
     cusor: pointer;
-<<<<<<< HEAD
-}
-`
-=======
-}`
->>>>>>> 64140e911ff1e246484c1dc189152af1b4e4427c
+    }
+    `
+
